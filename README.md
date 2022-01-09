@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anjali0208
 - 👀 I’m interested in making websites
-- 🌱 I’m currently learning Reactjs and nodejs
+- 🌱 I’m currently learning Reactjs 
 
 
 <!---
