@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anjali 
 - 🌱 currently learning Reactjs, Nodejs and Python
-- ✨ 
 
 
 
