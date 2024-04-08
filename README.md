@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Anjali 
-- 🌱 currently learning Reactjs, Nodejs and Python
+- 🌱 I am a fresher, currently in my last semester of MCA.
+- I have made projects using Reactjs, Firebase, Git, MaterialUI.
+- Currently learning Node, MongoDB.
+- Looking forward to work with MERN technology.
 
 
 
