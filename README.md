@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anjali
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<img src="https://tenor.com/bCNex.gif" width="400">
 
 
 💻 Software Developer  
@@ -12,8 +12,8 @@
 - 👯 Open to collaborate on exciting projects
 - 📫 Reach me at: awesome.anjali2000@gmail.com
 
-
-
+🚀 Tech Stack
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,flask,js,html,css,git,github,vscode" />
 <!---
 Anjali0208/Anjali0208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
