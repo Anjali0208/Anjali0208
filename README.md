@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anjali
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif(https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnB2cWJhN2l0bWRucHVlOWN4OXQyZHpxcnFyd3pnYmg3NXFtaXpybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GB6qkAvTyB1r8sOPuS/giphy.gif)" width="400">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 
 💻 Software Developer  
