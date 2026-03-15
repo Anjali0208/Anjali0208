@@ -7,15 +7,33 @@
 🚀 Passionate about building scalable applications  
 🌱 Currently diving into the world of AI
 
-- 🔭 Currently working at NIIT MTS as Associate Software Engineer
+- 🔭 Currently working at NIIT MTS as an Associate Software Engineer
 - 🌱 Learning AI / ML 
-- 👯 Open to collaborate on exciting projects
+- 👯 Open to collaborating on exciting projects
 - 📫 Reach me at: awesome.anjali2000@gmail.com
 
 
 
 🚀 Tech Stack
 <img src="https://skillicons.dev/icons?i=react,nodejs,python,flask,js,html,css,git,github,vscode" />
+
+
+## 📂 Featured Projects
+
+### 📦 Inventory Management System
+React + Flask + Node.js project for tracking stock and materials.
+
+### 📚 EasyNote
+Platform for students to access notes, syllabus, and ebooks.
+
+### 🎤 JobExpo
+AI job portal with speech recognition navigation.
+
+
+## 🌐 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/anjali-kumari-361588175/  
+GitHub: https://github.com/Anjali0208
 <!---
 Anjali0208/Anjali0208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
