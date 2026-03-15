@@ -1,7 +1,16 @@
-- 👋 Hi, I’m Anjali 
-- Associate Software Engineer @ NIIT MTS. Building full-stack apps with React.js, Node.js & Python Flask.
-- I have made projects using MERN and Python Flask.
-- Currently diving into the world of AI.
+- 👋 Hi, I’m Anjali
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/GB6qkAvTyB1r8sOPuS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PersonaJourney-coding-programming-hanacoding-GB6qkAvTyB1r8sOPuS">via GIPHY</a></p>
+
+
+💻 Software Developer  
+🚀 Passionate about building scalable applications  
+🌱 Currently diving into the world of AI
+
+- 🔭 Currently working at NIIT MTS as Associate Software Engineer
+- 🌱 Learning AI / ML 
+- 👯 Open to collaborate on exciting projects
+- 📫 Reach me at: awesome.anjali2000@gmail.com
 
 
 
