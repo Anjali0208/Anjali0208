@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anjali
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/GB6qkAvTyB1r8sOPuS" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/PersonaJourney-coding-programming-hanacoding-GB6qkAvTyB1r8sOPuS">via GIPHY</a></p>
+<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnB2cWJhN2l0bWRucHVlOWN4OXQyZHpxcnFyd3pnYmg3NXFtaXpybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GB6qkAvTyB1r8sOPuS/giphy.gif)" width="400">
 
 
 💻 Software Developer  
