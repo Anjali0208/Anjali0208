@@ -12,6 +12,8 @@
 - 👯 Open to collaborate on exciting projects
 - 📫 Reach me at: awesome.anjali2000@gmail.com
 
+
+
 🚀 Tech Stack
 <img src="https://skillicons.dev/icons?i=react,nodejs,python,flask,js,html,css,git,github,vscode" />
 <!---
