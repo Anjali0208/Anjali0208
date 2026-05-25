@@ -29,6 +29,9 @@ Platform for students to access notes, syllabus, and ebooks.
 ### 🎤 JobExpo
 AI job portal with speech recognition navigation.
 
+###  IndiiExpress
+A cloud kitchen live website, from which anyone can order from Swiggy and Zomato and see the menu.
+https://stirring-moxie-aaa370.netlify.app/
 
 ## 🌐 Connect With Me
 
