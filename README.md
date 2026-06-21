@@ -8,7 +8,7 @@
 🌱 Currently diving into the world of AI
 
 - 🔭 Currently working at NIIT MTS as an Associate Software Engineer
-- 🌱 Learning AI / ML 
+- 🌱 Learning Generative AI
 - 👯 Open to collaborating on exciting projects
 - 📫 Reach me at: awesome.anjali2000@gmail.com
 
